@@ -1,0 +1,3 @@
+assessement :
+        *COMMANDS 
+	*SDLC	

@@ -1,0 +1,4 @@
+name : shajuha
+class: bsc ds 'A'
+roll no : 24bsds144
+
